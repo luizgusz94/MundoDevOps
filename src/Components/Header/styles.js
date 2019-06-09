@@ -26,8 +26,6 @@ const styles = StyleSheet.create({
     IconsParameters:{
         color:"#FFF",        
     }
-    
-
   });
 
 export default styles;
