@@ -7,9 +7,6 @@ import VerticalCard from '../Components/VerticalCard';
 
 import styles from './styles';
 
-import data from '../../data.json';
-
-
 export default class Main extends Component {
     render() {
     return (
