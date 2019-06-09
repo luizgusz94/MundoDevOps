@@ -18,7 +18,7 @@ No mais as coisas se sairam até melhor do que imaginei.
 
 Estou empolgado com esse novo aprendizado, é a primeira vez que adiciono um projeto no github, e espero não parar mais. Gostei muito de trabalhar com JS no React-Native (apesar das frustrações com algumas falhas no copilador), e agradeço bastante essa oportunidade. Espero que possamos fazer alguns projetos futuramente. 
 
-A construção da aplicação, dada a minha inexperiência, durou entre 7h ~ 9h. Esse tempo poderia ter sido diminuido em torno de 40% caso eu fosse direto para ultima solução que enconrtei. 
+A construção da aplicação, dada a minha inexperiência, durou entre 7h ~ 9h. Esse tempo poderia ter sido diminuido em torno de 40% caso eu fosse direto para ultima solução que encontrei. 
 
 No mais, obrigado. 
 
