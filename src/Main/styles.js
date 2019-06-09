@@ -6,10 +6,6 @@ const styles = StyleSheet.create({
       alignItems: 'center',
       backgroundColor: '#262F38',
     },
-
   });
-
-
-
 
 export default styles;
