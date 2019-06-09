@@ -27,8 +27,6 @@ const styles = StyleSheet.create({
     backgroundColor: "#262F38"
   },
 
-
-
   GeneralInfo:{
     left:"45%",
     position:"absolute",
@@ -40,7 +38,6 @@ const styles = StyleSheet.create({
     top: 8,    
     width: "100%",
     height:100,
-
   },
 
   Title:{
@@ -139,8 +136,6 @@ const styles = StyleSheet.create({
     width: 50,
     height:14,    
   },
-
-
 });
 
 export default styles;
