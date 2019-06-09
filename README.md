@@ -14,7 +14,13 @@ Após um tempo, descobri que o parâmetro "require()" do Source (da função Ima
 
 Perdi uma tarde inteira pesquisando alguma solução pra isso, e infelizmente não encontrei. Tive que apagar uma parte do meu código e pensar em outra forma de resolver o problema. 
 
-No mais as coisas se sairam até melhor do que imaginei. 
+No mais as coisas se sairam até melhor do que imaginei: 
+
+- Sobre os diretórios, optei por adicionar uma pastar "src" com as subpastas "Main" e "Componentes". A Main reaúne todos os componentes que foram criados separadamente na pasta "Componentes" com subconteúdos "Header", "Menu" e "VerticalCard", para uma melhor legibilidade.
+
+- Utilizei a nomenclatura "index.js" para servir de base estrutural para a aplicação, e o "styles.js" para estilização dos componentes. 
+ 
+--
 
 Estou empolgado com esse novo aprendizado, é a primeira vez que adiciono um projeto no github, e espero não parar mais. Gostei muito de trabalhar com JS no React-Native (apesar das frustrações com algumas falhas no copilador), e agradeço bastante essa oportunidade!! 
 
