@@ -16,7 +16,7 @@ Perdi uma tarde inteira pesquisando alguma solução pra isso, e infelizmente n�
 
 No mais as coisas se sairam até melhor do que imaginei: 
 
-- Sobre os diretórios, optei por adicionar uma pastar "src" com as subpastas "Main" e "Componentes". A Main reaúne todos os componentes que foram criados separadamente na pasta "Componentes" com subconteúdos "Header", "Menu" e "VerticalCard", para uma melhor legibilidade.
+- Sobre os diretórios, optei por adicionar uma pastar "src" com as subpastas "Main" e "Components". A Main reaúne todos os componentes que foram criados separadamente na pasta "Components" com subconteúdos "Header", "Menu" e "VerticalCard", para uma melhor legibilidade.
 
 - Utilizei a nomenclatura "index.js" para servir de base estrutural para a aplicação, e o "styles.js" para estilização dos componentes. 
  
