@@ -10,7 +10,7 @@ Sofri um pouco pra entender como funciona esse servidor do React Native (que as 
 Tentei criar os componentes dessa aplicação de uma maneira organizada, já que ainda não tive contato com algum tipo de padronização dessa linguagem, então, pode ser que não esteja da forma como você está acostumado, peço que, por favor, ignore eventuais erros heheh
 
 Em código dei o meu máximo para dimuir linhas. Fiquei um pouco frustrado por não conseguir utilizar os paths de imagens daquele arquivo data.json que enviaram, como parâmetro em uma FlatList, vejo que se fosse possível, talves teria economizado um bom tempo. 
-Após um tempo, descobri que o parâmetro "require()" do Source (da função Image), não poderia receber variáveis externas, ou seja, eu só poderia escrever uma imagem por vez utilizando essa função. Caso essa propriedade fosse capaz de receber uma variável, seria possível gerar uma tela com pouqúissimos comandos e todos os dados necessários para trazer a tela, era tão tentador que eu perdi um bom tempo com isso, mas não deu certo, infelizmente. 
+Após um tempo, descobri que o parâmetro "require()" do Source (da função Image), não poderia receber variáveis externas, ou seja, eu só poderia escrever uma imagem por vez utilizando essa função. Caso essa propriedade fosse capaz de receber uma variável, seria possível gerar uma tela com pouqúissimos comandos e todos os dados necessários para trazer á tela, era tão tentador que eu perdi um bom tempo com isso, mas não deu certo, infelizmente. 
 
 Perdi uma tarde inteira pesquisando alguma solução pra isso, e infelizmente não encontrei. Tive que apagar uma parte do meu código e pensar em outra forma de resolver o problema. 
 
